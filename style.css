@@ -7,3 +7,12 @@
 .ui.borderless.menubar.menu .item:hover{
   background-color: #f7f7f7;
 }
+
+.ui.borderless.second.menu {
+  box-shadow: none;
+  border: none;
+}
+
+.ui.borderless.second.menu .item:hover{
+  background-color: #fff;
+}
